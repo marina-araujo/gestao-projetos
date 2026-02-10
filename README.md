@@ -1,4 +1,5 @@
-Architecture & Engineering Manager - Backend 🏗️☕
+## Architecture & Engineering Manager - Backend
+
 Este é o backend de um sistema (API REST) de uma plataforma de gestão voltada para escritórios de arquitetura e engenharia que atuam no nicho de Interiores. O projeto foi desenvolvido para gerenciar o ciclo de vida de projetos, clientes e cronogramas, aplicando os conceitos de arquitetura em camadas e boas práticas de desenvolvimento em Java.
 
 ## Tecnologias Utilizadas
